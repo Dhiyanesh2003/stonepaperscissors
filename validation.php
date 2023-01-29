@@ -30,12 +30,10 @@ if ($result->num_rows > 0) {
         $pass_ = $row['pass'];
         if (($id == $id_) && ($pass == $pass_)) {
             $conn->close();
-            header("Location: home.html");
+            header("Location: home.php");
             exit();
         }
     }
 }
 
 header("Location: index.php?success=1");
-
-?>
