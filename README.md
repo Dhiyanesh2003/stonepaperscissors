@@ -1,6 +1,6 @@
 This project focusses on engaging the user to play the game rock paper scissors !
 
-How to run :
+<b>How to run :</b>
 
 1. Enter the below URL in a browser
 
