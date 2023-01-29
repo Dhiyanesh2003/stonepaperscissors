@@ -87,7 +87,7 @@
                 </figcaption>
             </center>
         </a>
-        <a class="human" href="">
+        <a class="human" href="human.php">
             <img src="images/human.jpg" alt="human" />
             <center>
                 <figcaption>
