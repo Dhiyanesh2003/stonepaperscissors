@@ -1,6 +1,6 @@
 This project focusses on engaging the user to play the game rock paper scissors !
 
-<b>How to run :</b>
+**How to run :**
 
 1. Enter the below URL in a browser
 
@@ -12,7 +12,7 @@ This project focusses on engaging the user to play the game rock paper scissors 
    
    password = xyxyxy
 
-How to play :
+**How to play :**
 
 1. Currently the "Vs Computer module has been finished"
 
